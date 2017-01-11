@@ -1,4 +1,4 @@
-update=1/11/2017 12:32:19 AM
+update=1/11/2017 3:40:06 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,4 +58,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=lib/esp32-connectivity.lib/ks8721bl
+LibName30=lib/ks8721bl
